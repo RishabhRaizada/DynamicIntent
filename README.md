@@ -211,7 +211,7 @@ python server.py
 ### MCP Endpoint
 
 ```
-http://127.0.0.1:8003/mcp
+http://127.0.0.1:<port>/mcp
 ```
 
 ---
