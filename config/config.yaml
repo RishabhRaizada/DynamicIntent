@@ -1,0 +1,13 @@
+server:
+  host: 127.0.0.1
+  mcp_port: 8003
+  api_port: 8000
+  mcp_path: /mcp
+
+azure:
+  project_endpoint: https://testapiagent-resource.services.ai.azure.com/api/projects/testapiagent
+  agent_id: asst_fVKKUVovJ6FGONPYJOV3pe21
+
+indigo:
+  flight_search_url: https://api-uat-mobile-skyplus6e.goindigo.in/flightsearch/v1/flight/search
+  seat_map_url: https://api-uat-mobile-skyplus6e.goindigo.in/seatselection/v1/seat/getentireseats
